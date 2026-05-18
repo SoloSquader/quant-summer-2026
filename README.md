@@ -1,5 +1,3 @@
-# quant-summer-2026
-Summer preparation for CMU math and quant finance.
 # Quant Summer 2026
 
 I am an incoming Carnegie Mellon math major preparing for quant finance.
