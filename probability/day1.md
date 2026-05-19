@@ -71,12 +71,20 @@ This means 6/36, 1/6 * 100 = 16.6666% probability.
 
 
 First draw total balls: 5
+
+
 First draw red balls: 3
+
+
 First draw probability: 3/5
 
 
 Second draw total balls: 4
+
+
 Second draw red balls: 2
+
+
 Second draw proabbility: 2/4
 
 
