@@ -4,7 +4,7 @@
 
 There are three instances of flipping: the first, second, and third flip. Each instance has 2 different outcomes: either heads of tails. 
 
-Therfore, there are 2*2*2=8 different permutations of flips(since order matters). We need to find how many of those permutations have exactly 2 heads. 
+Therfore, there are 2 * 2 * 2 = 8 different permutations of flips(since order matters). We need to find how many of those permutations have exactly 2 heads. 
 Listing:
 
 1. HHT
