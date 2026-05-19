@@ -21,11 +21,11 @@ There are 2 instances, each with 6 possible outcomes. Therfore, there are 6*6=36
 
 Listing:
 
-1+5
-2+4
-4+2
-5+1
-3+3
+1. 1+5
+2. 2+4
+3. 4+2
+4. 5+1
+5. 3+3
 
 That makes 5. 
 
@@ -41,12 +41,12 @@ But wait. We can immedietly "eliminate" certain numbers from the dice. For examp
 
 Listing: 
 
-4+6
-5+5
-5+6
-6+4
-6+5
-6+6
+1. 4+6
+2. 5+5
+3. 5+6
+4. 6+4
+5. 6+5
+6. 6+6
 
 This means 6/36, 1/6 * 100 = 16.6666% probability. 
 
