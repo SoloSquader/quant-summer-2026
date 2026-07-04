@@ -36,7 +36,6 @@ def zeroes(s):
                 return True
     return True
         
-
 def middledigits(s):
     found_digit = False
     for i in s:
@@ -51,8 +50,5 @@ def formaT(s):
         if (i.isdigit()==False and i.isalpha()==False):
             return False
     return True
-
-
-    
 
 main()
